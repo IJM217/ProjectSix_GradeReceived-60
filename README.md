@@ -1,2 +1,5 @@
-# ProjectSix_GradeReceived-60
-Statistics Project 2: Experimental Design
+# Experimental Design Project for Statistics(Serial vs Parallel algorithms in Java)
+
+R Script: "P2.R"
+
+My Report: "Report Project 2.pdf"
