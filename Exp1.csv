@@ -1,0 +1,9 @@
+CWork,Algo,Type,ExTime
+1000000,MeanFilter,Sequential,2.431
+1000000,MeanFilter,Parallel,1.337
+1000000,MedianFilter,Sequential,9.134
+1000000,MedianFilter,Parallel,3.380
+9000000,MeanFilter,Sequential,16.120
+9000000,MeanFilter,Parallel,6.375
+9000000,MedianFilter,Sequential,86.172
+9000000,MedianFilter,Parallel,13.004
